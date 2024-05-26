@@ -1,6 +1,6 @@
 # WDC Python Library
 
-TThe library 'wdc' allows users to easily work with coverages while working on geospatial data, which is a type of data used in scientific research involving space and time. This documentation describes how the library is implemented and how it can be used to query WCPS datacube, perform aggregate operations on them. The library has been further improved so that multiple coverages can be utilized if needed. Step-by-step guidelines on how to use it are detailed below.
+The library 'wdc' allows users to easily work with coverages while working on geospatial data, which is a type of data used in scientific research involving space and time. This documentation describes how the library is implemented and how it can be used to query WCPS datacube, perform aggregate operations on them. The library has been further improved so that multiple coverages can be utilized if needed. Step-by-step guidelines on how to use it are detailed below.
 
 ## Table of contents
 + [Defining Classes](#defining-classes)
