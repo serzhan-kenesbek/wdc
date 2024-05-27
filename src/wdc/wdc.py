@@ -1,10 +1,6 @@
 import requests
 from requests.exceptions import HTTPError
 
-"""
-The codebase didn't have the dynamic query composition so it was mostly redone
-"""
-
 class DatabaseConnection:
     """
     Manages HTTP connections to a database server to facilitate the sending of queries.
